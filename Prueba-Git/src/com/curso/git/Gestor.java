@@ -10,7 +10,6 @@ public class Gestor {
 		List<String> list = List.of("1", "2", "3");
 		String cadena;
 		cadena = "Hola10";
-		//Comment
 	}
 
 }
