@@ -9,7 +9,7 @@ public class Gestor {
 		System.out.println("Hola Mundo");
 		List<String> list = List.of("1", "2", "3");
 		String cadena;
-		cadena = "Hola6";
+		cadena = "Hola7";
 	}
 
 }
